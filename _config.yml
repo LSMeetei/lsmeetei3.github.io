@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Loitongbam Sanayai Meetei"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Sanayai | NLP Researcher"
+  bio    : "NLP Researcher"
   links:
     - label: "LinkedIn"
       icon: "fa-brands fa-square-linkedin"
