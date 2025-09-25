@@ -3,7 +3,7 @@ permalink: /experience/
 title: "Experience"
 ---
 
-
+<div style="font-size: 0.8em; text-align: justify;">
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-spinner fa-spin"></i><b>Assistant Professor</b> <span style="font-weight: normal;">| SOA University | Dec 2023 – Present (1.5+ years)</span></li>
   
@@ -18,3 +18,4 @@ title: "Experience"
     </span>
   </li>
 </ul>
+</div>
