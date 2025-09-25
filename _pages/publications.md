@@ -5,7 +5,7 @@ title: "Publications"
 
 Journals
 
-<ol style="font-size: 0.7em;">
+<ol style="font-size: 0.7em; text-align: justify;">
   <li>Meetei, Loitongbam Sanayai, Thoudam Doren Singh, and Sivaji Bandyopadhyay.  “An empirical study of a novel multimodal dataset for low resource machine translation” Knowledge and Information Systems (2024) [SCIE]</li>
   <li>Meetei, Loitongbam Sanayai, Alok Singh, Thoudam Doren Singh, and Sivaji Bandyopadhyay. "Do cues in a video help in handling rare words in a machine translation system under a low-resource setting?." Natural Language Processing Journal (2023) -Elsevier: 100016.</li>
   <li>Meetei, Loitongbam Sanayai, Thoudam Doren Singh, and Sivaji Bandyopadhyay. "Exploiting Multiple Correlated Modalities can Enhance Low-Resource Machine Translation Quality" Multimedia Tools and Applications (2023): 1-21. [Scopus]</li>
@@ -17,7 +17,7 @@ Journals
 
 Conferences
 
-<ol style="font-size: 0.7em;">
+<ol style="font-size: 0.7em; text-align: justify;">
   <li>Boynao, Singh Kshetrimayum, Singh Ningthoujam Avichandra, Meetei Loitongbam Sanayai, Singh Ningthoujam Justwant, Singh Thoudam Doren, and Bandyopadhyay Sivaji. "A comparative study of transformer and transfer learning MT models for English-Manipuri." In Proceedings of the 20th International Conference on Natural Language Processing (ICON), pp. 791-796. 2023.</li>
   <li>Singh, Kshetrimayum Boynao, Avichandra Singh Ningthoujam, Loitongbam Sanayai Meetei, Sivaji Bandyopadhyay, and Thoudam Doren Singh. "NITS-CNLP Low-Resource Neural Machine Translation Systems of English-Manipuri Language Pair." In Proceedings of the Eighth Conference on Machine Translation, pp. 967-971. 2023. </li>
   <li>Meetei, Loitongbam Sanayai, Salam Michael Singh, Alok Singh, Ringki Das, Thoudam Doren Singh, and Sivaji Bandyopadhyay. "Hindi to English Multimodal Machine Translation on News Dataset in Low Resource Setting." Procedia Computer Science 218 (2023): 2102-2109.  [Scopus]</li>
