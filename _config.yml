@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sanayai | NLP Researcher
+title: LSM
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -21,16 +21,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: lsmeetei
-minimal_mistakes_skin: default
+minimal_mistakes_skin: aqua
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+#permalink: /:categories/:title/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
@@ -53,14 +53,14 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jemoji
   - jekyll-include-cache
 
 author:
   name   : "Loitongbam Sanayai Meetei"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm an Assistant Professor at SOA University, Bhubaneswar. I hold a PhD in Computer Science and Engineering from NIT Silchar, India, where my research focused on multimodal machine translation (MMT). My research has centered on developing computational models to understand human language in complex and data-scarce environments."
+  bio    : "Sanayai | NLP Researcher"
   links:
     - label: "LinkedIn"
       icon: "fa-brands fa-square-linkedin"
