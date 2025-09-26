@@ -71,9 +71,9 @@ author:
     - label: "GitHub"
       icon: "fa-brands fa-square-github"
       url: "https://github.com/LSMeetei"
-    #- label: "Instagram"
+    - label: "ACL Anthology"
     #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/"
+      url: "https://aclanthology.org/people/loitongbam-sanayai-meetei/"
 
 footer:
   links:
@@ -86,6 +86,9 @@ footer:
     - label: "GitHub"
       icon: "fa-brands fa-square-github"
       url: "https://github.com/LSMeetei"
+    - label: "ACL Anthology"
+    #  icon: "fab fa-fw fa-instagram"
+      url: "https://aclanthology.org/people/loitongbam-sanayai-meetei/"
 
 defaults:
   # _posts
