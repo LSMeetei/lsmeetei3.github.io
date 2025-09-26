@@ -65,30 +65,38 @@ author:
     - label: "LinkedIn"
       icon: "fa-brands fa-square-linkedin"
       url: "https://www.linkedin.com/in/l-sanayai/"
+      new_tab: true
     - label: "Google Scholar"
       icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=ZxUtYrwAAAAJ&hl"
+      new_tab: true
     - label: "GitHub"
       icon: "fa-brands fa-square-github"
       url: "https://github.com/LSMeetei"
+      new_tab: true
     - label: "ACL Anthology"
     #  icon: "fab fa-fw fa-instagram"
       url: "https://aclanthology.org/people/loitongbam-sanayai-meetei/"
+      new_tab: true
 
 footer:
   links:
     - label: "LinkedIn"
       icon: "fa-brands fa-square-linkedin"
       url: "https://www.linkedin.com/in/l-sanayai/"
+      new_tab: true
     - label: "Google Scholar"
       icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=ZxUtYrwAAAAJ&hl"
+      new_tab: true
     - label: "GitHub"
       icon: "fa-brands fa-square-github"
       url: "https://github.com/LSMeetei"
+      new_tab: true
     - label: "ACL Anthology"
     #  icon: "fab fa-fw fa-instagram"
       url: "https://aclanthology.org/people/loitongbam-sanayai-meetei/"
+      new_tab: true
 
 defaults:
   # _posts
